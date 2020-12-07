@@ -656,6 +656,23 @@ xclip
 	padding: 15px;
 	background: #ffffff;
 	margin-bottom: 30px;
+	height: 300px;
+}
+
+.services-inner-box2{
+	padding: 15px;
+	background: #ffffff;
+	margin-bottom: 30px;
+	height: 390px;
+}
+
+.services-inner-box3{
+	padding: 15px;
+	background: #ffffff;
+	margin-bottom: 30px;
+	height: 500px;
+}
+
 }
 .ser-icon{
 	width: 90px;
